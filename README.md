@@ -68,7 +68,7 @@ I'm always expanding my knowledge with new tools and technologies:
 
 ## 🤝 Let's Connect!
 - **Email**: [deironyesithym21@gmail.com](mailto:deironyesithym21@gmail.com)
-- **LinkedIn**: [Yesith Jimenez](https://www.linkedin.com/in/yesith-jimenez/)
+- **LinkedIn**: [Yesith Jimenez](https://www.linkedin.com/in/yesith-jimenez-0565482ba/)
 - **GitHub**: [Yesid-Ackerman](https://github.com/Yesid-Ackerman)
 
 Feel free to reach out for collaborations, learning, or just a chat about tech! 🚀
